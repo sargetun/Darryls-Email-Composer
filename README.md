@@ -2,6 +2,7 @@
 My personal Email Composer I am constantly working on improving for easier email composer, all suggestions/bug reports/etc greatly appreciated. Please read LICENSING to see fair use.
 
 **HOW TO USE:**
+_MAKE SURE CONFIG.INI, DARRYLS-EMAIL-COMPOSER.EXE, EMAIL_TEMPLATE.TXT AND ANY ATTACHMENTS YOU WISH TO USE ARE IN THE SAME DIRECTORY._
 1. Edit config.ini file with your details for your email server and address
 2. Edit email_template.txt to the template you wish to use, The variables can be placed anywhere but do not remove them or delete them 
 
