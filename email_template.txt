@@ -1,0 +1,12 @@
+Dear {Recipient},
+
+I hope this email finds you well. I wanted to reach out to you with the following information:
+
+{AdditionalInfo}
+
+If you have any questions or need further assistance, please let me know.
+
+{Closing}
+
+Best regards,
+Your Name
